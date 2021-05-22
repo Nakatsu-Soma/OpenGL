@@ -1,0 +1,6 @@
+C:\Users\soma0\Desktop\openGL\SampleOpenGLProject\Action\Debug\OpenGL.exe
+C:\Users\soma0\Desktop\openGL\SampleOpenGLProject\Action\Debug\OpenGL.pdb
+C:\Users\soma0\Desktop\JumpBall\Action\Debug\OpenGL.exe
+C:\Users\soma0\Desktop\JumpBall\Action\Debug\OpenGL.pdb
+C:\Users\soma0\Desktop\OpenGL\OpenGL\Action\Debug\OpenGL.exe
+C:\Users\soma0\Desktop\OpenGL\OpenGL\Action\Debug\OpenGL.pdb
